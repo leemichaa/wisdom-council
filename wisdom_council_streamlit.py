@@ -1,5 +1,5 @@
 import streamlit as st
-from lunar_python import Lunar, Solar
+from lunarcalendar import Converter, Solar, Lunar
 import anthropic
 import os
 
